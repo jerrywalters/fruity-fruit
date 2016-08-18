@@ -2,9 +2,9 @@
 
 ##Blueberries!
 
-![alt text][fruits/blueberry/blueberry-green]
-![alt text][fruits/blueberry/blueberry-blue]
-![alt text][fruits/blueberry/blueberry-red]
-![alt text][fruits/blueberry/blueberry-yellow]
-![alt text][fruits/blueberry/blueberry-pink]
-![alt text][fruits/blueberry/blueberry-purple]
+![alt text](fruits/blueberry/blueberry-green.svg)
+![alt text](fruits/blueberry/blueberry-blue.svg)
+![alt text](fruits/blueberry/blueberry-red.svg)
+![alt text](fruits/blueberry/blueberry-yellow.svg)
+![alt text](fruits/blueberry/blueberry-pink].svg)
+![alt text](fruits/blueberry/blueberry-purple.svg)
