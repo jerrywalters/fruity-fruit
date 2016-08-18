@@ -11,10 +11,10 @@
 
 ##Peaches!
 
+![yellow peach](fruit-pics/peach-yellow.png)
 ![green peach](fruit-pics/peach-green.png)
 ![blue peach](fruit-pics/peach-blue.png)
 ![red peach](fruit-pics/peach-red.png)
-![yellow peach](fruit-pics/peach-yellow.png)
 ![pink peach](fruit-pics/peach-pink.png)
 ![purple peach](fruit-pics/peach-purple.png)
 
